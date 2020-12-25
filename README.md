@@ -1,2 +1,2 @@
-# class-33-asynchronous-ball-movement
-class 33 asynchronous ball movement
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
